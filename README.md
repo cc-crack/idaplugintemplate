@@ -1,6 +1,8 @@
 # IDA7 xcode template
 ## Install
-`cp -R IDA* ~/Library/Developer/Xcode/Templates/`
+- 'git clone https://github.com/cc-crack/idaplugintemplate.git'
+- `cp -R IDA* ~/Library/Developer/Xcode/Templates/`
+
 ## Usage
 Set `IDASDK_PATH` to your IDASDK path.
 ## Issue

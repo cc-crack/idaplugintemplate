@@ -1,10 +1,4 @@
-//
-//  idatest.cpp
-//  idatest
-//
-//  Created by charles on 2018/6/29.
-//  Copyright © 2018 charles. All rights reserved.
-//
+
 #define __MAC__
 #define __X64__
 
