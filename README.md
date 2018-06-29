@@ -1,6 +1,6 @@
 # IDA7 xcode template
 ## Install
-- 'git clone https://github.com/cc-crack/idaplugintemplate.git'
+- `git clone https://github.com/cc-crack/idaplugintemplate.git`
 - `cp -R IDA* ~/Library/Developer/Xcode/Templates/`
 
 ## Usage
